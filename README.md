@@ -1,28 +1,12 @@
-# Szymon Godlewski
-**Computer Science Student | Aspiring Software Engineer**
+# 💫 About Me:
+🎓 Currently pursuing a degree in Computer Science at PJATK (Polish-Japanese Academy of Information Technology).<br>💻 Solid foundation in core computer science concepts, including Object-Oriented Programming (OOP), Data Structures, and Relational Databases.<br>⚙️ Combining technical problem-solving abilities with hands-on experience in IT infrastructure and project management.<br>🚀 Actively seeking opportunities to apply my analytical skills in a professional environment. I am highly motivated to explore career paths and grow within both Software Engineering and Cybersecurity.
 
-* 🎓 Computer Science student at the Polish-Japanese Academy of Information Technology (PJAIT).
-* 🧱 Solid foundation in Object-Oriented Programming, data structures, and relational databases.
-* ⚙️ Combining technical problem-solving abilities with hands-on experience in IT infrastructure and project management.
-* 🚀 Actively seeking opportunities to apply analytical skills within a professional software engineering environment.
 
-### 🛡️ Technical Foundation for Security
-- [cite_start]**Primary Languages:** Java, Python, C++ (Low-level basics) [cite: 4, 7]
-- [cite_start]**Database Management:** SQL (T-SQL, PL/SQL) — *focus on data integrity & security logic* [cite: 4, 22]
-- [cite_start]**Scripting & Web:** Python, JavaScript, HTML/CSS [cite: 5, 7]
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:szgodlewski.pl@gmail.com) 
 
-### 🛠️ Systems & Environment
-- [cite_start]**Infrastructure:** AWS (Foundational), Git 
-- [cite_start]**Libraries:** .NET, SFML, Qt, Java Swing [cite: 8]
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-### 🚀 Selected Projects
 
-* **Monkey Typer** (*C++, SFML*): A high-performance typing speed training game transitioned from a console architecture to a graphical interface.
-* **Secure Password Manager** (*Java, Java Swing*): A secure password storage solution featuring custom encryption mechanisms, file I/O operations, and a custom-built GUI.
-* **Relational Database Architecture** (*SQL, Oracle, MSSQL*): Optimized relational databases focusing on data integrity with complex logic implemented via stored procedures, triggers, and cursors.
-* **Graph Search Algorithms / Labyrinth** (*Java*): An algorithmic solution for maze navigation utilizing BFS and DFS algorithms, optimized with Queue and Stack data structures.
-
-### 📫 Contact & Links
-
-* **Email:** [szgodlewski.pl@gmail.com](mailto:szgodlewski.pl@gmail.com)
-* **LinkedIn:** [Insert LinkedIn URL here]
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
