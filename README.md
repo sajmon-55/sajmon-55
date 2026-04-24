@@ -1,31 +1,28 @@
-# Hi there, I'm Szymon Godlewski
+# Szymon Godlewski
+**Computer Science Student | Aspiring Software Engineer**
 
-I'm a **Computer Science student** at the Polish-Japanese Academy of Information Technology (PJAIT) in Warsaw. I am passionate about object-oriented programming, algorithms, and software engineering.
+* 🎓 Computer Science student at the Polish-Japanese Academy of Information Technology (PJAIT).
+* 🧱 Solid foundation in Object-Oriented Programming, data structures, and relational databases.
+* ⚙️ Combining technical problem-solving abilities with hands-on experience in IT infrastructure and project management.
+* 🚀 Actively seeking opportunities to apply analytical skills within a professional software engineering environment.
 
-### 👨‍💻 About Me
-- 🎓 Currently pursuing my Bachelor of Science in Computer Science.
-- 💡 I enjoy solving logical problems and turning ideas into clean, efficient code.
-- 🤝 Outside of coding, I'm an active member of the PJAIT Student Council, managing logistics and coordinating large-scale university events.
-- 🌱 Currently expanding my knowledge in Java, C++, and database optimization.
+### 🛡️ Technical Foundation for Security
+- [cite_start]**Primary Languages:** Java, Python, C++ (Low-level basics) [cite: 4, 7]
+- [cite_start]**Database Management:** SQL (T-SQL, PL/SQL) — *focus on data integrity & security logic* [cite: 4, 22]
+- [cite_start]**Scripting & Web:** Python, JavaScript, HTML/CSS [cite: 5, 7]
 
-### 🛠️ Tech Stack
-* **Backend & Databases:** Java (OOP), SQL (T-SQL, PL/SQL)
-* **Frontend Technologies:** HTML5, CSS3, JavaScript
-* **Other Languages:** C++, Python, C#
-* **Frameworks:** Java Swing, SFML, .NET, Qt
-* **Tools & Platforms:** Git, GitHub, AWS (Foundational)
+### 🛠️ Systems & Environment
+- [cite_start]**Infrastructure:** AWS (Foundational), Git 
+- [cite_start]**Libraries:** .NET, SFML, Qt, Java Swing [cite: 8]
 
-### 🚀 Featured Projects
-Here are some of the academic and personal projects I've been working on:
+### 🚀 Selected Projects
 
-- ⌨️ **Monkey Typer (C++)** - A typing speed training game, developed both as a console application and a windowed version using the SFML library.
-- 🔐 **Password Manager (Java)** - A secure password storage application utilizing basic encryption mechanisms, file operations, and a Java Swing GUI.
-- 🗄️ **Database Systems (SQL)** - Relational database designs involving stored procedures, triggers, and cursors across Oracle (PL/SQL) and MSSQL (T-SQL) environments.
-- 🧩 **Labyrinth (Java)** - Implementation of BFS and DFS graph search algorithms using Queue and Stack data structures to solve maze navigation.
+* **Monkey Typer** (*C++, SFML*): A high-performance typing speed training game transitioned from a console architecture to a graphical interface.
+* **Secure Password Manager** (*Java, Java Swing*): A secure password storage solution featuring custom encryption mechanisms, file I/O operations, and a custom-built GUI.
+* **Relational Database Architecture** (*SQL, Oracle, MSSQL*): Optimized relational databases focusing on data integrity with complex logic implemented via stored procedures, triggers, and cursors.
+* **Graph Search Algorithms / Labyrinth** (*Java*): An algorithmic solution for maze navigation utilizing BFS and DFS algorithms, optimized with Queue and Stack data structures.
 
-### 📫 Let's Connect!
-- 📧 Email: [szgodlewski.pl@gmail.com](mailto:szgodlewski.pl@gmail.com)
-- 💼 LinkedIn: [Dodaj tutaj link do swojego profilu, jeśli masz]
+### 📫 Contact & Links
 
----
-⭐️ *Thanks for stopping by! Feel free to explore my repositories below.*
+* **Email:** [szgodlewski.pl@gmail.com](mailto:szgodlewski.pl@gmail.com)
+* **LinkedIn:** [Insert LinkedIn URL here]
