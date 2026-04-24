@@ -15,7 +15,7 @@
 • [⌨️ Monkey Typer](https://github.com/sajmon-55/MonkeyTyper)  
 Typing game with dynamic words, multiple styles, and real-time interaction  
 
-• [🔐 Password Manager](https://github.com/sajmon-55/Password-Manager)  
+• [🔐 Password Manager](https://github.com/sajmon-55/PasswordManager)  
 Secure password storage with encryption & file-based system  
 
 • [🧩 Labyrinth Algorithmics ](https://github.com/sajmon-55/Maze_BFS_DFS)  
