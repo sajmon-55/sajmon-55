@@ -1,7 +1,7 @@
 # Hi, I'm Szymon Godlewski:
 
 ## About me:
-🎓 Computer Science student at the Polish-Japanese Academy of Information Technology.<br>💻 Solid foundation in core computer science concepts, including Object-Oriented Programming (OOP), Data Structures, and Relational Databases.<br>⚙️ Combining technical problem-solving abilities with hands-on experience in IT infrastructure and project management.<br>🚀 Actively seeking opportunities to apply my analytical skills in a professional environment. I am highly motivated to explore career paths and grow within both Software Engineering and Cybersecurity.
+🎓 Computer Science student at the Polish-Japanese Academy of Information Technology.<br>💻 Solid foundation in core computer science concepts, including Object-Oriented Programming (OOP), Data Structures, and Relational Databases.<br>⚙️ Combining technical problem-solving abilities with hands-on experience in IT infrastructure and project management.<br>
 
 
 ## 🌐 Socials:
