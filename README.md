@@ -1,4 +1,4 @@
-# Hi, I'm Szymon Godlewski:
+# Hi, I'm Szymon Godlewski
 
 ## About me:
 🎓 Computer Science student at the Polish-Japanese Academy of Information Technology.<br>💻 Solid foundation in core computer science concepts, including Object-Oriented Programming (OOP), Data Structures, and Relational Databases.<br>⚙️ Combining technical problem-solving abilities with hands-on experience in IT infrastructure and project management.<br>
