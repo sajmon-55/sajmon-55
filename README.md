@@ -1,7 +1,7 @@
 # Hi, I'm Szymon Godlewski:
 
 ## About me:
-🎓 Currently pursuing a degree in Computer Science at PJATK (Polish-Japanese Academy of Information Technology).<br>💻 Solid foundation in core computer science concepts, including Object-Oriented Programming (OOP), Data Structures, and Relational Databases.<br>⚙️ Combining technical problem-solving abilities with hands-on experience in IT infrastructure and project management.<br>🚀 Actively seeking opportunities to apply my analytical skills in a professional environment. I am highly motivated to explore career paths and grow within both Software Engineering and Cybersecurity.
+🎓 Computer Science student at the Polish-Japanese Academy of Information Technology.<br>💻 Solid foundation in core computer science concepts, including Object-Oriented Programming (OOP), Data Structures, and Relational Databases.<br>⚙️ Combining technical problem-solving abilities with hands-on experience in IT infrastructure and project management.<br>🚀 Actively seeking opportunities to apply my analytical skills in a professional environment. I am highly motivated to explore career paths and grow within both Software Engineering and Cybersecurity.
 
 
 ## 🌐 Socials:
@@ -12,7 +12,7 @@
 
 ## 📂 Projects
 
-• [⌨️ Monkey Typer](https://github.com/sajmon-55/Monkey-Typer)  
+• [⌨️ Monkey Typer](https://github.com/sajmon-55/MonkeyTyper)  
 Typing game with dynamic words, multiple styles, and real-time interaction  
 
 • [🔐 Password Manager](https://github.com/sajmon-55/Password-Manager)  
