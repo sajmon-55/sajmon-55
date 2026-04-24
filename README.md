@@ -1,4 +1,4 @@
-# Hi there, I'm Szymon 👋
+# Hi there, I'm Szymon Godlewski
 
 I'm a **Computer Science student** at the Polish-Japanese Academy of Information Technology (PJAIT) in Warsaw. I am passionate about object-oriented programming, algorithms, and software engineering.
 
